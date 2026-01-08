@@ -143,7 +143,7 @@ nav{
     justify-content: space-around;
    
 }
-.banner-btn img{
+.btn img{
     height: 13.13px;
 }
 
@@ -210,7 +210,7 @@ nav{
 
 #solution{
     width: 85%;
-    margin: 0px auto;
+    margin: 0px auto 120px;
 }
 
 .brain{
@@ -251,3 +251,27 @@ nav{
     padding-bottom: 16px;
     color: #001931;
 }
+
+#more-clearly{
+    width: 85%;
+    background-color: #F7F6F2;
+    margin: 0px auto;
+    text-align: center;
+    padding-bottom: 56px;
+}
+#more-clearly h2{
+    font-size: 40px;
+    font-weight: bold;
+    color: #001931;
+    padding-top: 80px;
+}
+#more-clearly p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #627382;
+    line-height: 24px;
+    padding-top: 16px;
+    padding-bottom: 24px;
+}
+
+
