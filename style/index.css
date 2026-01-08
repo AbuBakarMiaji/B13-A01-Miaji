@@ -255,9 +255,10 @@ nav{
 #more-clearly{
     width: 85%;
     background-color: #F7F6F2;
-    margin: 0px auto;
+    margin: 0px auto 120px;
     text-align: center;
     padding-bottom: 56px;
+    border-radius: 10px;
 }
 #more-clearly h2{
     font-size: 40px;
@@ -274,4 +275,44 @@ nav{
     padding-bottom: 24px;
 }
 
+footer{
+    background-color: #001931;
+    padding-top: 120px;
+    padding-bottom: 30px;
+}
+.footer-sec{
+    width: 85%;
+    margin: 0px auto;
+    /* border: 1px solid red; */
+    text-align: center;
+}
 
+.first-sec{
+    display: flex;
+    justify-content: space-between;   
+    align-items: center; 
+    padding-bottom: 80px;
+    padding-right: 50px;
+
+}
+.soc-icon h3{
+    font-size: 20px;
+    font-weight: 500;
+    color: #FFFFFF;
+    line-height: 28px;
+}
+.soc-icon img{
+    width: 92px;
+}
+
+hr{
+   
+    border-color: #E5E7EB;
+}
+.footer-sec p{
+    padding: 30px 120px 0px;
+    color: #FAFAFA;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
